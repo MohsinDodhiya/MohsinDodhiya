@@ -6,10 +6,6 @@ I'm a passionate developer currently learning MERN stack development and I'm exc
 
 ## 🌱 Currently Learning
 - **MERN Stack Development**
-  - **MongoDB**: NoSQL database for modern applications.
-  - **Express.js**: Web application framework for Node.js.
-  - **React.js**: JavaScript library for building user interfaces.
-  - **Node.js**: JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ## 🔧 Technologies & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)

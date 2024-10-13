@@ -3,7 +3,11 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin-dodhiya-b9b650268/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin-dodhiya-b9b650268/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?logo=instagram&logoColor=white)](https://www.instagram.com/yourusername) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/yourusername) 
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:youremail@example.com) 
+[![Phone](https://img.shields.io/badge/Phone-%23007ACC.svg?logo=phone&logoColor=white)](tel:+1234567890)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
